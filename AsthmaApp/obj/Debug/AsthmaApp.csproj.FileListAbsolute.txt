@@ -1,0 +1,40 @@
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.exe.config
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.exe
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.pdb
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.LoginPage.resources
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.Properties.Resources.resources
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.GenerateResource.cache
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.CoreCompileInputs.cache
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.exe
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.pdb
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.MainPage.resources
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.CopyComplete
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.exe.config
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.exe
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.pdb
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\MySql.Data.dll
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\Google.Protobuf.dll
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\MySql.Data.xml
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csprojAssemblyReference.cache
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.LoginPage.resources
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.MainPage.resources
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.Properties.Resources.resources
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.GenerateResource.cache
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.CoreCompileInputs.cache
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.CopyComplete
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.exe
+H:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.pdb
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csprojAssemblyReference.cache
+G:\My Drive\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.Form1.resources
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.exe.config
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.exe
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\bin\Debug\AsthmaApp.pdb
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csprojAssemblyReference.cache
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.LoginPage.resources
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.MainPage.resources
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.Properties.Resources.resources
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.GenerateResource.cache
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.CoreCompileInputs.cache
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.csproj.CopyComplete
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.exe
+D:\THESIS\Asthma Desktop App\AsthmaApp\AsthmaApp\obj\Debug\AsthmaApp.pdb
